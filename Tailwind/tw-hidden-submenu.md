@@ -79,3 +79,8 @@ Finally in our html, we can insert the following to use this effect
 ```
 ## Notes / Caveats
 The height of the menu item div is pre-determined (ex `h-24`). In my experience, each menu item appears to be aprox. 8 units in height, but that will differ based on your text size, margins, and padding. This solution breaks very quickly if the inner div doesn't have a fixed height.  
+
+
+## Sources
+(Sorry for the edit), almost forgot about this SO question I found which *heavily* inspired the plugins I "wrote"
+* [SO: Tailwind CSS : Is there a way to target next sibling?](https://stackoverflow.com/a/65321069)
